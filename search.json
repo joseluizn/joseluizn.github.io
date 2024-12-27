@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "Current Courses",
+    "text": "Current Courses\n\nCourse Name: Description and resources."
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nCourse Name: Description and resources."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "José Luiz Nunes",
+    "section": "About Me",
+    "text": "About Me\nI am an academic researcher interested in interdisciplinary work in Human-Centered Computing, especially at the intersection of machine learning and ethics, machine behavior, and quantitative empirical legal studies.\nCurrently, I am a PhD Candidate in the Department of Informatics at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). I also conduct research at the Center for Technology and Society at FGV Direito Rio.\nYou can find my Publications and Course Materials on their respective pages."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "José Luiz Nunes",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on: - Ethical aspects of Machine Learning development and deployment - Machine psychology - Data-driven empirical legal studies - Moral evaluation of Large Language Models"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "José Luiz Nunes",
+    "section": "Teaching",
+    "text": "Teaching\nI teach the following undergraduate courses at FGV Direito Rio undergraduate program: - Programming for Lawyers - Legal Data Science"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "José Luiz Nunes",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: jose.luiz at fgv.br OR jnunes at inf.puc-rio.br\nSocial: Bluesky"
+  }
+]
