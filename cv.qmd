@@ -1,0 +1,8 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+
+[Download my CV](cv.pdf)

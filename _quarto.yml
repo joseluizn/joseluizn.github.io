@@ -1,0 +1,32 @@
+project:
+  type: website
+  title: "José Luiz Nunes"
+
+website:
+  # title: "José Luiz Nunes website " # this also adds a title to the navbar
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Courses"
+        href: courses.qmd
+      # - text: "CV"
+      #   href: cv.qmd
+    right:
+      - text: "Bluesky"
+        # icon: bluesky
+        href: https://bsky.app/profile/joseluiz.bsky.social
+      - text: "LinkedIn"
+        icon: linkedin
+        href: https://www.linkedin.com/in/jos%C3%A9-luiz-nunes-7b77b412a/
+      - text: "GitHub"
+        icon: github
+        href: https://github.com/joseluizn
+
+format:
+  html:
+    theme: flatly   # Choose a Bootstrap theme
+    css: styles.css
+    page-layout: custom

@@ -1,0 +1,36 @@
+<div class="header-container">
+<h1>Hello</h1>
+<div class="profile-image">
+<img src="./resources/pic.jpg" alt="Profile picture">
+</div>
+</div>
+
+
+## About Me
+
+I am an academic researcher interested in interdisciplinary work in Human-Centered Computing, especially at the intersection of machine learning and ethics, machine behavior, and quantitative empirical legal studies.
+
+Currently, I am a PhD Candidate in the Department of Informatics at the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). I also conduct research at the Center for Technology and Society at FGV Direito Rio.
+
+You can find my [Publications](publications.qmd) and [Course Materials](courses.qmd) on their respective pages.
+
+## Research Interests
+
+My research focuses on:
+- Ethical aspects of Machine Learning development and deployment
+- Machine psychology
+- Data-driven empirical legal studies
+- Moral evaluation of Large Language Models
+
+## Teaching
+
+I teach the following undergraduate courses at FGV Direito Rio undergraduate program:
+- Programming for Lawyers
+- Legal Data Science
+
+
+
+## Contact
+
+- Email:  jose.luiz at fgv.br OR jnunes at inf.puc-rio.br
+- Social: [Bluesky](https://bsky.app)
