@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
     "title": "Courses",
-    "section": "",
-    "text": "Course Name: Description and resources.\n\n\n\n\n\nCourse Name: Description and resources."
+    "section": "Current Courses",
+    "text": "Current Courses\n\nCourse Name: Description and resources."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Curriculum Vitae\nDownload my CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "Currently, I am a PhD Candidate at the Department of Informatics @ the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). I am also a researcher at the Center for Technology and Society at FGV Direito Rio.\nI am interested on ethical aspects of Machine Learning development and deployment, as well as machine psychology and data focused empirical legal studies. My recent publications have focused on the moral evaluation of Large Language Models.\nYou can check my Publications, as well as the materials for the Courses I teach at FGV Direito Rio undergraduate program: “Programming for Lawyers” and “Legal Data Science”.\nYou can contact me through my e-mail: jose.luiz at fgv.br or jnunes at inf.puc-rio.br. Feel free to contact me on Bluesky as well."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Here is a list of my publications:\n\n2024\n\nAre Large Language Models Moral Hypocrites? A Study Based on Moral Foundations\nJL Nunes, GFCF Almeida, M de Araujo, SDJ Barbosa\nProceedings of the AAAI/ACM Conference on AI, Ethics, and Society\nPrecedentes Reais, Gerenciais e Decisões de Aplicação\nJL Nunes, GFCF Almeida\nRevista de Estudos Empíricos em Direito\nExploring the Psychology of LLMs’ Moral and Legal Reasoning\nGFCF Almeida, JL Nunes, N Engelmann, A Wiegmann, M de Araújo\nArtificial Intelligence\nEpistemology Goes AI: A Study of GPT-3’s Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis\nM de Araujo, G de Almeida, JL Nunes\nMinds and Machines\nUsing Model Cards for Ethical Reflection on Machine Learning Models: An Interview-Based Study\nJL Nunes, GDJ Barbosa, CS de Souza, SDJ Barbosa\nJournal on Interactive Systems\n\n\n\n2023\n\nInvestigating the Extended Metacommunication Template: How a Semiotic Tool May Encourage Reflective Ethical Practice in the Development of Machine Learning Systems\nGDJ Barbosa, JL Nunes, CS De Souza, SDJ Barbosa\nProceedings of the XXII Brazilian Symposium on Human Factors in Computing\nDynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time\nFA Correia, JL Nunes, PH Alves, H Lopes\nProceedings of the ACM Symposium on Document Engineering\n\n\n\n2022\n\nUsing Model Cards for Ethical Reflection: A Qualitative Exploration\nJL Nunes, GDJ Barbosa, CS de Souza, H Lopes, SDJ Barbosa\nProceedings of the 21st Brazilian Symposium on Human Factors in Computing\nA Quantitative Approach to Ranking Corporate Law Precedents in the Brazilian Superior Court of Justice\nJL Nunes, IA Hartmann\nArtificial Intelligence and Law, Vol. 30, pages 117-145\nFine-Grained Legal Entity Annotation: A Case Study on the Brazilian Supreme Court\nFA Correia, AAA Almeida, JL Nunes, KG Santos, IA Hartmann, FA Silva, H Lopes\nInformation Processing & Management, Vol. 59, Issue 1\n\n\n\n2021\n\nEvaluating Approaches for Developers’ Ethical Reasoning and Communication About Machine Learning Models (MSc thesis) JL Nunes\nPUC-Rio\nPanorama do Direito Empresarial no Superior Tribunal de Justiça\nJM Lima Junior, IA Hartmann, TZ Pimentel, JL Nunes\n\n\n\n2019\n\nAn Exploratory Analysis of Precedent Relevance in the Brazilian Supreme Court Rulings\nFA Correia, JL Nunes, GFCF de Almeida, AAA Almeida, H Lopes\nProceedings of the ACM Symposium on Document Engineering\n\n\n\n2018\n\nO Impacto no Sistema Prisional Brasileiro da Mudança de Entendimento do Supremo Tribunal Federal Sobre Execução da Pena Antes do Trânsito em Julgado no HC 126.292/SP\nIA Hartmann, CI Keller, D Chada, G Vasconcelos, JL Nunes, L Carneiro\nRevista de Direito Econômico e Socioambiental\nDeterminando Relevância de Processos Utilizando Análise de Redes: Exemplos de Temas de Direito Administrativo (undergraduate thesis)\nJL Nunes\n\n\n\n2017\n\nA Influência da TV Justiça no Processo Decisório do STF\nIA Hartmann, C Guilherme da Franca, BN Valim, CEL Lima, GB Mariano\nRevista de Estudos Empíricos em Direito\n\n\n\n2016\n\nExplicando o Dissenso: Uma Análise Empírica do Comportamento Judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos\nG Almeida, JL Nunes, L Chaves\nOriginally published at Revista de Estudos Institucionais. Available at SSRN"
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nCourse Name: Description and resources."
   },
   {
     "objectID": "index.html#about-me",
@@ -54,19 +40,5 @@
     "title": "José Luiz Nunes",
     "section": "Contact",
     "text": "Contact\n\nEmail: jose.luiz at fgv.br OR jnunes at inf.puc-rio.br\nSocial: Bluesky"
-  },
-  {
-    "objectID": "courses.html#current-courses",
-    "href": "courses.html#current-courses",
-    "title": "Courses",
-    "section": "Current Courses",
-    "text": "Current Courses\n\nCourse Name: Description and resources."
-  },
-  {
-    "objectID": "courses.html#past-courses",
-    "href": "courses.html#past-courses",
-    "title": "Courses",
-    "section": "Past Courses",
-    "text": "Past Courses\n\nCourse Name: Description and resources."
   }
 ]

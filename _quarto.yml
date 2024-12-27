@@ -30,3 +30,6 @@ format:
     theme: flatly   # Choose a Bootstrap theme
     css: styles.css
     page-layout: custom
+
+publish:
+  gh-pages: true
