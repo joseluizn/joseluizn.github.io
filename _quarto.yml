@@ -15,13 +15,14 @@ website:
       # - text: "CV"
       #   href: cv.qmd
     right:
-      - text: "Bluesky"
-        # icon: bluesky
+      - text: "{{< iconify logos bluesky >}}"
         href: https://bsky.app/profile/joseluiz.bsky.social
-      - text: "LinkedIn"
+      - text: "{{< iconify simple-icons researchgate >}}"
+        href: https://www.researchgate.net/profile/Jose-Luiz-Nunes
+      - text: ""
         icon: linkedin
         href: https://www.linkedin.com/in/jos%C3%A9-luiz-nunes-7b77b412a/
-      - text: "GitHub"
+      - text: ""
         icon: github
         href: https://github.com/joseluizn
 

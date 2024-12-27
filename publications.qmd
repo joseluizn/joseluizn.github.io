@@ -2,45 +2,47 @@
 title: "Publications"
 ---
 
-Here is a list of my publications. Yoiu can find more info at my [Google Scholar profile](https://scholar.google.com/citations?user=8V-ZZZEAAAAJ&hl=en)
+Here is a list of my publications. Yoiu can find more info at my [Google Scholar profile](https://scholar.google.com/citations?user=8V-ZZZEAAAAJ&hl=en).
+
+If you cannot find any publication feel free to contact me through e-mail or on my [Research Gate profile](https://www.researchgate.net/profile/Jose-Luiz-Nunes?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
 
 
 ### 2024
-- [Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:QIV2ME_5wuYC)  
+- [Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations](https://ojs.aaai.org/index.php/AIES/article/view/31704)  
   ***JL Nunes**, GFCF Almeida, M de Araujo, SDJ Barbosa*  
   *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society*
 
-- [Precedentes Reais, Gerenciais e Decisões de Aplicação](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IWHjjKOFINEC)  
+- [Precedentes Reais, Gerenciais e Decisões de Aplicação](https://www.reedrevista.org/reed/article/view/709)  
   ***JL Nunes**, GFCF Almeida*  
   *Revista de Estudos Empíricos em Direito*
 
-- [Exploring the Psychology of LLMs’ Moral and Legal Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:dhFuZR0502QC)  
+- [Exploring the Psychology of LLMs’ Moral and Legal Reasoning](https://www.sciencedirect.com/science/article/abs/pii/S000437022400081X)  
   *GFCF Almeida, **JL Nunes**, N Engelmann, A Wiegmann, M de Araújo*  
   *Artificial Intelligence*
 
-- [Epistemology Goes AI: A Study of GPT-3’s Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:mVmsd5A6BfQC)  
+- [Epistemology Goes AI: A Study of GPT-3’s Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis](https://link.springer.com/article/10.1007/s11023-024-09660-6)  
   *M de Araujo, G de Almeida, **JL Nunes***  
   *Minds and Machines*
 
-- [Using Model Cards for Ethical Reflection on Machine Learning Models: An Interview-Based Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:YOwf2qJgpHMC)  
+- [Using Model Cards for Ethical Reflection on Machine Learning Models: An Interview-Based Study](https://journals-sol.sbc.org.br/index.php/jis/article/view/3444)  
   ***JL Nunes**, GDJ Barbosa, CS de Souza, SDJ Barbosa*  
   *Journal on Interactive Systems*
 
 ### 2023
-- [Investigating the Extended Metacommunication Template: How a Semiotic Tool May Encourage Reflective Ethical Practice in the Development of Machine Learning Systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4TOpqqG69KYC)  
+- [Investigating the Extended Metacommunication Template: How a Semiotic Tool May Encourage Reflective Ethical Practice in the Development of Machine Learning Systems](https://dl.acm.org/doi/abs/10.1145/3638067.3638070)  
   *GDJ Barbosa, **JL Nunes**, CS De Souza, SDJ Barbosa*  
   *Proceedings of the XXII Brazilian Symposium on Human Factors in Computing*
 
-- [Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:KlAtU1dfN6UC)  
+- [Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time](https://dl.acm.org/doi/abs/10.1145/3573128.3604899)  
   *FA Correia, **JL Nunes**, PH Alves, H Lopes*  
   *Proceedings of the ACM Symposium on Document Engineering*
 
 ### 2022
-- [Using Model Cards for Ethical Reflection: A Qualitative Exploration](https://link.springer.com/article/10.1007/s10506-021-09290-8)  
+- [Using Model Cards for Ethical Reflection: A Qualitative Exploration](https://dl.acm.org/doi/abs/10.1145/3554364.3559117)  
   ***JL Nunes**, GDJ Barbosa, CS de Souza, H Lopes, SDJ Barbosa*  
   *Proceedings of the 21st Brazilian Symposium on Human Factors in Computing*
 
-- [A Quantitative Approach to Ranking Corporate Law Precedents in the Brazilian Superior Court of Justice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:u-x6o8ySG0sC)  
+- [A Quantitative Approach to Ranking Corporate Law Precedents in the Brazilian Superior Court of Justice](https://link.springer.com/article/10.1007/s10506-021-09290-8)  
   ***JL Nunes**, IA Hartmann*  
   *Artificial Intelligence and Law, Vol. 30, pages 117-145*
 
@@ -49,32 +51,32 @@ Here is a list of my publications. Yoiu can find more info at my [Google Scholar
   *Information Processing & Management, Vol. 59, Issue 1*
 
 ### 2021
-- [Evaluating Approaches for Developers’ Ethical Reasoning and Communication About Machine Learning Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4DMP91E08xMC)  (MSc thesis)
+- [Evaluating Approaches for Developers’ Ethical Reasoning and Communication About Machine Learning Models](https://www.maxwell.vrac.puc-rio.br/56260/56260.PDF)  (MSc thesis)  
   ***JL Nunes***  
   *PUC-Rio*
 
-- [Panorama do Direito Empresarial no Superior Tribunal de Justiça](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:qjMakFHDy7sC)  
+- [Panorama do Direito Empresarial no Superior Tribunal de Justiça](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/31251/0.%20Miolo%20digital_Panorama%20do%20Direito%20Empresarial%20no%20STJ.pdf?sequence=1)  
   *JM Lima Junior, IA Hartmann, TZ Pimentel, **JL Nunes***  
 
 ### 2019
-- [An Exploratory Analysis of Precedent Relevance in the Brazilian Supreme Court Rulings](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:9yKSN-GCB0IC)  
+- [An Exploratory Analysis of Precedent Relevance in the Brazilian Supreme Court Rulings](https://dl.acm.org/doi/abs/10.1145/3342558.3345416)  
   *FA Correia, **JL Nunes**, GFCF de Almeida, AAA Almeida, H Lopes*  
   *Proceedings of the ACM Symposium on Document Engineering*
 
 ### 2018
-- [O Impacto no Sistema Prisional Brasileiro da Mudança de Entendimento do Supremo Tribunal Federal Sobre Execução da Pena Antes do Trânsito em Julgado no HC 126.292/SP](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:2osOgNQ5qMEC)  
+- [O Impacto no Sistema Prisional Brasileiro da Mudança de Entendimento do Supremo Tribunal Federal Sobre Execução da Pena Antes do Trânsito em Julgado no HC 126.292/SP](https://periodicos.pucpr.br/direitoeconomico/article/view/22393)  
   *IA Hartmann, CI Keller, D Chada, G Vasconcelos, **JL Nunes**, L Carneiro*  
   *Revista de Direito Econômico e Socioambiental*
 
-- [Determinando Relevância de Processos Utilizando Análise de Redes: Exemplos de Temas de Direito Administrativo](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IjCSPb-OGe4C) (undergraduate thesis)   
+- [Determinando Relevância de Processos Utilizando Análise de Redes: Exemplos de Temas de Direito Administrativo](https://repositorio.fgv.br/items/d4c9505f-06f8-492b-8d4c-247113ef8028) (undergraduate thesis)   
   ***JL Nunes***  
 
 ### 2017
-- [A Influência da TV Justiça no Processo Decisório do STF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:d1gkVwhDpl0C)  
-  *IA Hartmann, C Guilherme da Franca, BN Valim, CEL Lima, GB Mariano*  
+- [A Influência da TV Justiça no Processo Decisório do STF](https://reedrevista.org/reed/article/view/186)  
+  *IA Hartmann, G de Almeida, BN Valim, CEL Lima, GB Mariano, LL Campos, **JL Nunes***  
   *Revista de Estudos Empíricos em Direito*
 
 ### 2016
-- [Explicando o Dissenso: Uma Análise Empírica do Comportamento Judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UeHWp8X0CEIC)  
+- [Explicando o Dissenso: Uma Análise Empírica do Comportamento Judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3428679)  
   *G Almeida, **JL Nunes**, L Chaves*  
   *Originally published at Revista de Estudos Institucionais. Available at SSRN*
