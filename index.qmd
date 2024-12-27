@@ -17,6 +17,7 @@ You can find my [Publications](publications.qmd) and [Course Materials](courses.
 ## Research Interests
 
 My research focuses on:
+
 - Ethical aspects of Machine Learning development and deployment
 - Machine psychology
 - Data-driven empirical legal studies
