@@ -18,14 +18,19 @@ You can find my [Publications](publications.qmd) and [Course Materials](courses.
 
 My research focuses on:
 
-- Ethical aspects of Machine Learning development and deployment
-- Machine psychology
-- Data-driven empirical legal studies
-- Moral evaluation of Large Language Models
+<ul>
+    <li>Ethical aspects of Machine Learning development and deployment</li>
+    <li>Machine psychology</li>
+    <li>Data-driven empirical legal studies</li>
+    <li>Moral evaluation of Large Language Models</li>
+</ul>
+
 
 ## Teaching
 
 I teach the following undergraduate courses at FGV Direito Rio undergraduate program:
+
+
 - Programming for Lawyers
 - Legal Data Science
 
