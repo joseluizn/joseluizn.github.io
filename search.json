@@ -4,7 +4,7 @@
     "href": "courses.html#current-courses",
     "title": "Courses",
     "section": "Current Courses",
-    "text": "Current Courses\n\nProgramming for Lawyers: From 2024 this course was redesigend to emphasize teaching aspects of programming through the task of creating data visualizations. Co-taught with Lucas Thevenard Gomes.\nLegal Data Science: Course teaches data wrangling, how to think about quantitative problems within the legal field, how to answer them through the python data framework and how to create and read basic statistical models and tests."
+    "text": "Current Courses\n\nProgramming for Lawyers: From 2024 this course was redesigend to emphasize teaching aspects of programming through the task of creating data visualizations. Co-taught with Lucas Thevenard Gomes.\nLegal Data Science: Course teaches data wrangling, how to think about quantitative problems within the legal field, how to answer them through the python data framework and how to create and read basic statistical models and tests. Materials availabel at Github page: https://github.com/joseluizn/cdj-fgvdireitorio"
   },
   {
     "objectID": "courses.html#past-courses",
