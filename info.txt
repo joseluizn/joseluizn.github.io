@@ -1,0 +1,11 @@
+Website built using quarto engine.
+
+Requirements for custom icons:
+
+- Iconify
+
+To install the required packages, run the following command:
+
+```
+quarto add mcanouil/quarto-iconify
+```
