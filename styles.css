@@ -48,25 +48,32 @@ a {
 }
 
 .profile-image {
-  float: none;
-  width: 100px;          /* Increased size */
-  height: 100px;         /* Keep aspect ratio 1:1 */
+  flex: 0 0.2 120px;  /* Don't grow, don't shrink, fixed width */
+  width: 120px;          /* Increased size */
+  height: 120px;         /* Keep aspect ratio 1:1 */
   overflow: hidden;
-  border-radius: 50%;    /* Perfect circle */
-  margin-right: 20px;
-  margin-left: 0px;
-  padding: 50;
+  display: flex;    
+  align-items: center;
+  justify-content: center;
+  border-radius: 70%;
+  /* margin-right: 20px;
+  margin-left: 0px;*/
+  padding: 30; 
 }
 
 .profile-image img {
-  width: 120%;           /* Larger than container */
-  height: 120%;          /* Larger than container */
+  width: 125%;           /* Larger than container */
+  height: 125%;          /* Larger than container */
   object-fit: cover;     /* Maintain aspect ratio */
-  object-position: center; /* Center the image */
+  object-position: right top; /* right center the image */
   margin-top: 0;
   margin-right: 0;
-  margin-bottom: 10%;
-  margin-left: -5%;
+  margin-bottom: 0;
+  margin-left: 2;
+}
+
+@media (max-width: 768px) {
+
 }
 
 /* Large screens (e.g., desktops) */
