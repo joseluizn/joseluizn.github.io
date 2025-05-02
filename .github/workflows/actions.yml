@@ -1,0 +1,21 @@
+name: run extract_cv.py
+
+on:
+  schedule:
+    - cron: '8 8 * * 0' # At 00:00 on Monday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13' # install the python version needed
+      - run: pip install beautifulsoup4
+
+      - name: execute py script # run extractor from Scholar
+        run: python code/publications_generated.qmd
