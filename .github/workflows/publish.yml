@@ -17,7 +17,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
       - run: |
-          quarto add mcanouil/iconify
+          quarto add mcanouil/quarto-iconify
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
