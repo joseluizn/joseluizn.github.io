@@ -8,7 +8,7 @@ from collections import defaultdict
 AUTHOR_ID = '8V-ZZZEAAAAJ'
 TEMPLATE_PATH = 'publications.qmd'
 OUTPUT_PATH = '../publications.qmd'
-PAGESIZE = 200
+PAGESIZE = 150
 BASE_URL = 'https://scholar.google.com/citations'
 # -----------------------------------------------------
 
