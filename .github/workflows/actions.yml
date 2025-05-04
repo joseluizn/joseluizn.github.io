@@ -18,4 +18,11 @@ jobs:
       - run: pip install beautifulsoup4
 
       - name: execute py script # run extractor from Scholar
-        run: python code/generate_publications.py
+        run: |
+          python code/generate_publications.py
+          git config --global user.name "github-actions"
+          git config --global user.email github-actions@github.com
+          git add .
+          git commit -m "update publications page"
+          git push
+
