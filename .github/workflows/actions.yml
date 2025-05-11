@@ -2,7 +2,7 @@ name: run extract_cv.py
 
 on:
   schedule:
-    - cron: '8 8 * * 0' # At 00:00 on Monday
+    - cron: '8 8 * * 0' # 
 
 jobs:
   build:
@@ -19,10 +19,9 @@ jobs:
 
       - name: execute py script # run extractor from Scholar
         run: |
-          python code/generate_publications.py
+          python code/generate_publication.py
           git config --global user.name "github-actions"
           git config --global user.email github-actions@github.com
           git add .
           git commit -m "update publications page"
           git push
-
