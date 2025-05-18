@@ -14,8 +14,8 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13' # install the python version needed
-      - run: pip install beautifulsoup4
+          python-version: '3.13' # install the python version needed and dependencies
+      - run: pip install beautifulsoup4 requests
 
       - name: execute py script # run extractor from Scholar
         run: |
