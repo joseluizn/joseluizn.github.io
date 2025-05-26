@@ -1,8 +1,10 @@
 import os
 import re
 import requests
-from bs4 import BeautifulSoup
 from collections import defaultdict
+
+from bs4 import BeautifulSoup
+from serpapi import GoogleSearch
 
 # ------------------- Configuration -------------------
 AUTHOR_ID = '8V-ZZZEAAAAJ'
@@ -10,72 +12,48 @@ TEMPLATE_PATH = 'publications.qmd'
 OUTPUT_PATH = '../publications.qmd'
 PAGESIZE = 150
 BASE_URL = 'https://scholar.google.com/citations'
+SERPAPI_KEY = os.getenv("SERPAPI_KEY")
+
+if not SERPAPI_KEY:
+    raise EnvironmentError("SERPAPI_KEY environment variable is not set.")
 # -----------------------------------------------------
 
-
-def fetch_publications(author_id):
-    """
-    Fetch all publications from Google Scholar using requests and BeautifulSoup.
-    Returns a list of dicts with keys: year, title, authors, venue, url.
-    """
-    session = requests.Session()
-    session.headers.update({
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                      'AppleWebKit/537.36 (KHTML, like Gecko) '
-                      'Chrome/90.0.4430.93 Safari/537.36'
-    })
-    publications = []
+def fetch_publications(author_id, api_key):
+    results = []
     start = 0
 
     while True:
         params = {
-            'hl': 'en',
-            'user': author_id,
-            'sortby': 'pubdate',
-            'cstart': start,
-            'pagesize': PAGESIZE
+            "engine": "google_scholar_author",
+            "hl": "en",
+            "author_id": author_id,
+            "api_key": api_key,
+            "start": start,
+            "sort": "pubdate"
         }
-        response = session.get(BASE_URL, params=params)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
 
-        rows = soup.find_all('tr', class_='gsc_a_tr')
-        if not rows:
+        search = GoogleSearch(params)
+        data = search.get_dict()
+
+        if "articles" not in data:
+            raise ValueError(f"No articles found. Full response: {data}")
+
+        for article in data["articles"]:
+            publication = {
+                "title": article.get("title"),
+                "authors": article.get("authors"),
+                "year": article.get("year"),
+                "journal": article.get("publication"),
+                "link": article.get("link"),
+            }
+            results.append(publication)
+
+        if "next" not in data.get("pagination", {}):
             break
 
-        for row in rows:
-            # Title and URL
-            title_tag = row.find('a', class_='gsc_a_at')
-            title = title_tag.text.strip() if title_tag else ''
-            url = 'https://scholar.google.com' + title_tag['href'] if title_tag and title_tag.has_attr('href') else ''
+        start += 100
 
-            # Authors and venue
-            gs_gray = row.find_all('div', class_='gs_gray')
-            authors = gs_gray[0].text.strip() if len(gs_gray) > 0 else ''
-            venue = gs_gray[1].text.strip() if len(gs_gray) > 1 else ''
-
-            # Year
-            year_tag = row.find('span', class_='gsc_a_h')
-            year_text = year_tag.text.strip() if year_tag else ''
-            try:
-                year = int(year_text)
-            except ValueError:
-                year = 0
-
-            publications.append({
-                'year': year,
-                'title': title,
-                'authors': authors,
-                'venue': venue,
-                'url': url
-            })
-
-        # If fewer than a full page, we're done
-        if len(rows) < PAGESIZE:
-            break
-        start += PAGESIZE
-
-    return publications
+    return results
 
 
 def format_publications_markdown(author_name: re.Pattern, publications):
@@ -141,7 +119,7 @@ if __name__ == '__main__':
     # You may need to supply your name for highlighting
     AUTHOR_NAME = re.compile(r"J(os[eé]|\.)?\s?L(uiz|\.)?\sNunes", re.IGNORECASE)
 
-    pubs = fetch_publications(AUTHOR_ID)
+    pubs = fetch_publications(AUTHOR_ID, SERPAPI_KEY)
     md = format_publications_markdown(AUTHOR_NAME, pubs)
 
     if not os.path.exists(TEMPLATE_PATH):
