@@ -3,6 +3,9 @@ name: run extract_cv.py
 on:
   schedule:
     - cron: '8 20 * * 1' # 
+    
+env:
+  SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
 jobs:
   build:
@@ -19,9 +22,10 @@ jobs:
 
       - name: execute py script # run extractor from Scholar
         run: |
+          set -e  # exit if any command fails
           python code/generate_publication.py
           git config --global user.name "github-actions"
           git config --global user.email github-actions@github.com
           git add .
-          git commit -m "update publications page"
+          git commit -m "update publications page" || echo "No changes to commit"
           git push
