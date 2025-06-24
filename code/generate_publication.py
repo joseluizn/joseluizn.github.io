@@ -75,7 +75,7 @@ def format_publications_markdown(author_name: re.Pattern, publications):
         lines.append(f"### {label}")
         for pub in by_year[year]:
             # Title link
-            title_md = f"[{pub['title']}]({pub['url']})" if pub.get('url') else pub['title']
+            title_md = f"[{pub['title']}]({pub['link']})" if pub.get('link') else pub['title']
 
             # Highlight author_name
             author_list = [a.strip() for a in pub['authors'].split(',')]
@@ -86,8 +86,8 @@ def format_publications_markdown(author_name: re.Pattern, publications):
 
             lines.append(f"- {title_md}  ")
             lines.append(f"  *{authors_md}*  ")
-            if pub['venue']:
-                lines.append(f"  *{pub['venue']}*  ")
+            if pub.get('journal'):
+                lines.append(f"  *{pub['journal']}*  ")
         lines.append('')
 
     return '\n'.join(lines)
