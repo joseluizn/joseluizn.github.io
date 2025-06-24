@@ -2,7 +2,7 @@ name: run extract_cv.py
 
 on:
   schedule:
-    - cron: '8 20 * * 1' # 
+    - cron: '8 17 * * 2' # 
     
 env:
   SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
