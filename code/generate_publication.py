@@ -8,8 +8,8 @@ from serpapi import GoogleSearch
 
 # ------------------- Configuration -------------------
 AUTHOR_ID = '8V-ZZZEAAAAJ'
-TEMPLATE_PATH = 'publications.qmd'
-OUTPUT_PATH = '../publications.qmd'
+TEMPLATE_PATH = 'code/publications.qmd'
+OUTPUT_PATH = 'publications.qmd'
 PAGESIZE = 150
 BASE_URL = 'https://scholar.google.com/citations'
 SERPAPI_KEY = os.getenv("SERPAPI_KEY")
