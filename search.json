@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "Current Courses",
+    "text": "Current Courses\n\nProgramming for Lawyers: From 2024 this course was redesigend to emphasize teaching aspects of programming through the task of creating data visualizations. Co-taught with Lucas Thevenard Gomes.\nLegal Data Science: Course teaches data wrangling, how to think about quantitative problems within the legal field, how to answer them through the python data framework and how to create and read basic statistical models and tests. Materials availabel at Github page: https://github.com/joseluizn/cdj-fgvdireitorio"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nProgramming for Lawyers: Course format until 2023. Focused directly on Python programming languages aspects and structures. Materials available at Github: https://github.com/joseluizn/progr-adv-fgvdireitorio"
+  },
+  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "José Luiz Nunes",
@@ -26,19 +40,5 @@
     "title": "José Luiz Nunes",
     "section": "Contact",
     "text": "Contact\n\nEmail: jose.luiz at fgv.br OR jnunes at inf.puc-rio.br\nSocial: Bluesky"
-  },
-  {
-    "objectID": "courses.html#current-courses",
-    "href": "courses.html#current-courses",
-    "title": "Courses",
-    "section": "Current Courses",
-    "text": "Current Courses\n\nProgramming for Lawyers: From 2024 this course was redesigend to emphasize teaching aspects of programming through the task of creating data visualizations. Co-taught with Lucas Thevenard Gomes.\nLegal Data Science: Course teaches data wrangling, how to think about quantitative problems within the legal field, how to answer them through the python data framework and how to create and read basic statistical models and tests. Materials availabel at Github page: https://github.com/joseluizn/cdj-fgvdireitorio"
-  },
-  {
-    "objectID": "courses.html#past-courses",
-    "href": "courses.html#past-courses",
-    "title": "Courses",
-    "section": "Past Courses",
-    "text": "Past Courses\n\nProgramming for Lawyers: Course format until 2023. Focused directly on Python programming languages aspects and structures. Materials available at Github: https://github.com/joseluizn/progr-adv-fgvdireitorio"
   }
 ]
