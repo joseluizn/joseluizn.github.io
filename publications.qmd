@@ -10,73 +10,77 @@ If you cannot find any publication feel free to contact me through e-mail or on 
 
 <!-- Publications to be added below: -->
 
+### 2025
+- [Evidence of conceptual mastery in the application of rules by Large Language Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:R3hNpaxXUhUC)  
+  ***José Luiz Nunes**, GFCF Almeida, B Flanagan*  
+  *arXiv preprint arXiv:2503.00992, 2025*  
+
 ### 2024
-- [Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:QIV2ME_5wuYC)  
+- [Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:QIV2ME_5wuYC)  
   ***José Luiz Nunes**, GFCF Almeida, M de Araujo, SDJ Barbosa*  
   *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7, 2024*  
-- [Precedentes Reais, Gerenciais e Decisões de Aplicação](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IWHjjKOFINEC)  
+- [Precedentes Reais, Gerenciais e Decisões de Aplicação](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IWHjjKOFINEC)  
   ***José Luiz Nunes**, GFCF Almeida*  
   *Revista de Estudos Empíricos em Direito 11, 2024*  
-- [Exploring the psychology of LLMs’ Moral and Legal Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:dhFuZR0502QC)  
+- [Exploring the psychology of LLMs’ Moral and Legal Reasoning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:dhFuZR0502QC)  
   *GFCF Almeida, **José Luiz Nunes**, N Engelmann, A Wiegmann, M de Araújo*  
   *Artificial Intelligence, 104145, 2024*  
-- [Epistemology Goes AI: A Study of GPT-3’s Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:mVmsd5A6BfQC)  
+- [Epistemology Goes AI: A Study of GPT-3’s Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:mVmsd5A6BfQC)  
   *M de Araujo, G de Almeida, **José Luiz Nunes***  
   *Minds and Machines 34 (1), 2, 2024*  
-- [Using Model Cards for ethical reflection on machine learning models: an interview-based study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:YOwf2qJgpHMC)  
+- [LLM (LARGE LANGUAGE MODELS) AS SURROGATE FOR MULTI-VOICE GROUPS: FROM EPISTEMIC RELIABILITY TO POLITICAL LEGITIMACY](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:TQgYirikUcIC)  
+  *M Araujo, **José Luiz Nunes**, G Almeida*  
+  *Recasting Bioethics, Nueroethics, and AI Ethics. 1, 159-181, 2024*  
+- [Using Model Cards for ethical reflection on machine learning models: an interview-based study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:YOwf2qJgpHMC)  
   ***José Luiz Nunes**, GDJ Barbosa, CS de Souza, SDJ Barbosa*  
   *Journal on Interactive Systems 15 (1), 1-19, 2024*  
 
 ### 2023
-- [Investigating the Extended Metacommunication Template: How a semiotic tool may encourage reflective ethical practice in the development of machine learning systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4TOpqqG69KYC)  
+- [Investigating the Extended Metacommunication Template: How a semiotic tool may encourage reflective ethical practice in the development of machine learning systems](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4TOpqqG69KYC)  
   *GDJ Barbosa, **José Luiz Nunes**, CS De Souza, SDJ Barbosa*  
-  *Proceedings of the XXII Brazilian Symposium on Human Factors in Computing …, 2023*  
-- [Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:KlAtU1dfN6UC)  
+  *Proceedings of the XXII Brazilian Symposium on Human Factors in Computing …, 2023*  
+- [Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:KlAtU1dfN6UC)  
   *FA Correia, **José Luiz Nunes**, PH Alves, H Lopes*  
   *Proceedings of the ACM Symposium on Document Engineering 2023, 1-10, 2023*  
-- [Nota técnica sobre a PEC 09/2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:ULOm3_A8WrAC)  
+- [Nota técnica sobre a PEC 09/2023](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:ULOm3_A8WrAC)  
   *Y Curzi, SBC Góes, **José Luiz Nunes**, L Abbas, G Thomaz*  
 
 ### 2022
-- [Using model cards for ethical reflection: a qualitative exploration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UebtZRa9Y70C)  
+- [Using model cards for ethical reflection: a qualitative exploration](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UebtZRa9Y70C)  
   ***José Luiz Nunes**, GDJ Barbosa, CS de Souza, H Lopes, SDJ Barbosa*  
-  *Proceedings of the 21st Brazilian Symposium on Human Factors in Computing …, 2022*  
-- [A quantitative approach to ranking corporate law precedents in the Brazilian Superior Court of Justice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:u-x6o8ySG0sC)  
+  *Proceedings of the 21st Brazilian Symposium on Human Factors in Computing …, 2022*  
+- [A quantitative approach to ranking corporate law precedents in the Brazilian Superior Court of Justice](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:u-x6o8ySG0sC)  
   ***José Luiz Nunes**, IA Hartmann*  
   *Artificial Intelligence and Law 30 (1), 117-145, 2022*  
-- [Fine-grained legal entity annotation: A case study on the Brazilian Supreme Court](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:zYLM7Y9cAGgC)  
+- [Fine-grained legal entity annotation: A case study on the Brazilian Supreme Court](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:zYLM7Y9cAGgC)  
   *FA Correia, AAA Almeida, **José Luiz Nunes**, KG Santos, IA Hartmann, FA Silva, ...*  
   *Information Processing & Management 59 (1), 102794, 2022*  
 
 ### 2021
-- [Evaluating approaches for developers’ ethical reasoning and communication about Machine Learning models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4DMP91E08xMC)  
+- [Evaluating approaches for developers’ ethical reasoning and communication about Machine Learning models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4DMP91E08xMC)  
   ***José Luiz Nunes***  
   *PUC-Rio, 2021*  
-- [Panorama do direito empresarial no Superior Tribunal de Justiça](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:qjMakFHDy7sC)  
+- [Panorama do direito empresarial no Superior Tribunal de Justiça](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:qjMakFHDy7sC)  
   *JM Lima Junior, IA Hartmann, TZ Pimentel, **José Luiz Nunes***  
 
 ### 2019
-- [An exploratory analysis of precedent relevance in the Brazilian Supreme Court rulings](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:9yKSN-GCB0IC)  
+- [An exploratory analysis of precedent relevance in the Brazilian Supreme Court rulings](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:9yKSN-GCB0IC)  
   *FA Correia, **José Luiz Nunes**, GFCF de Almeida, AAA Almeida, H Lopes*  
   *Proceedings of the ACM Symposium on Document Engineering 2019, 1-4, 2019*  
 
 ### 2018
-- [O impacto no sistema prisional brasileiro da mudança de entendimento do Supremo Tribunal Federal sobre execução da pena antes do trânsito em julgado no HC 126.292/SP-um estudo …](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:2osOgNQ5qMEC)  
+- [O impacto no sistema prisional brasileiro da mudança de entendimento do Supremo Tribunal Federal sobre execução da pena antes do trânsito em julgado no HC 126.292/SP-um estudo …](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:2osOgNQ5qMEC)  
   *IA Hartmann, CI Keller, D Chada, G Vasconcelos, **José Luiz Nunes**, L Carneiro, ...*  
   *Revista de Direito Econômico e Socioambiental 9 (1), 399-426, 2018*  
-- [Determinando relevância de processos utilizando análise de redes: exemplos de temas de direito administrativo](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IjCSPb-OGe4C)  
+- [Determinando relevância de processos utilizando análise de redes: exemplos de temas de direito administrativo](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IjCSPb-OGe4C)  
   ***José Luiz Nunes***  
 
 ### 2017
-- [A influência da TV Justiça no processo decisório do STF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:d1gkVwhDpl0C)  
+- [A influência da TV Justiça no processo decisório do STF](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:d1gkVwhDpl0C)  
   *IA Hartmann, C Guilherme da Franca, BN Valim, CEL Lima, GB Mariano, ...*  
   *Revista de estudos empíricos em direito 4 (3), 2017*  
 
 ### 2016
-- [Explicando o dissenso: uma análise empírica do comportamento judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos (Explaining Dissent: An Empirical …](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UeHWp8X0CEIC)  
+- [Explicando o dissenso: uma análise empírica do comportamento judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos (Explaining Dissent: An Empirical …](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UeHWp8X0CEIC)  
   *G Almeida, **José Luiz Nunes**, L Chaves*  
   *Available at SSRN 3428679, 2016*  
-
-### Unknown
-- [LLMany: On the use of LLM (Large Language Models) as substitutes for multi-voice groups](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:aqlVkmm33-oC)  
-  *M de Araujo, **José Luiz Nunes**, G de Almeida*  
