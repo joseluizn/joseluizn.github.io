@@ -1,31 +1,67 @@
-name: run extract_cv.py
+name: Update publications and deploy site
 
 on:
   schedule:
     - cron: '8 17 * * 2' # 
-    
+  workflow_dispatch:
+
+permissions:
+  contents: write
 env:
   SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
 jobs:
-  build:
+  update-and-publish:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: setup python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13' # install the python version needed and dependencies
-      - run: pip install beautifulsoup4 requests google-search-results
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'requirements.txt'
 
-      - name: execute py script # run extractor from Scholar
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate publications from Google Scholar
+        env:
+          SERPAPI_KEY: ${{ env.SERPAPI_KEY }}
         run: |
-          set -e  # exit if any command fails
+          set -euo pipefail
           python code/generate_publication.py
-          git config --global user.name "github-actions"
-          git config --global user.email github-actions@github.com
-          git add .
-          git commit -m "update publications page" || echo "No changes to commit"
+
+      - name: Check for changes
+        id: git_status
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git_status.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add publications.qmd
+          git commit -m "chore: update publications page from Google Scholar" || echo "No changes to commit"
           git push
+
+      - name: Set up Quarto
+        if: steps.git_status.outputs.changed == 'true'
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render and Publish site (gh-pages)
+        if: steps.git_status.outputs.changed == 'true'
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

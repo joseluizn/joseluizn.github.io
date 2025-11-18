@@ -1,0 +1,5 @@
+# Minimal dependencies for publication generation
+beautifulsoup4==4.12.3
+requests>=2.31,<3
+# serpapi client for Python (import path: from serpapi import GoogleSearch)
+google-search-results>=2.4.2,<3
