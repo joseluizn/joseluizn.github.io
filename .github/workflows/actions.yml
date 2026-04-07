@@ -50,18 +50,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add publications.qmd
-          git commit -m "chore: update publications page from Google Scholar" || echo "No changes to commit"
+          git add src/data/publications.json
+          git commit -m "chore: update publications from Google Scholar" || echo "No changes to commit"
           git push
 
-      - name: Set up Quarto
-        if: steps.git_status.outputs.changed == 'true'
-        uses: quarto-dev/quarto-actions/setup@v2
-
-      - name: Render and Publish site (gh-pages)
-        if: steps.git_status.outputs.changed == 'true'
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # Quarto publishing removed; site is deployed via deploy.yml
