@@ -5,15 +5,16 @@ import re
 from serpapi import GoogleSearch
 
 # ------------------- Configuration -------------------
-AUTHOR_ID = '8V-ZZZEAAAAJ'
-OUTPUT_PATH = 'src/data/publications.json'
+AUTHOR_ID = "8V-ZZZEAAAAJ"
+OUTPUT_PATH = "src/data/publications.json"
 PAGESIZE = 150
-BASE_URL = 'https://scholar.google.com/citations'
+BASE_URL = "https://scholar.google.com/citations"
 SERPAPI_KEY = os.getenv("SERPAPI_KEY")
 
 if not SERPAPI_KEY:
     raise EnvironmentError("SERPAPI_KEY environment variable is not set.")
 # -----------------------------------------------------
+
 
 def fetch_publications(author_id, api_key):
     results = []
@@ -26,7 +27,7 @@ def fetch_publications(author_id, api_key):
             "author_id": author_id,
             "api_key": api_key,
             "start": start,
-            "sort": "pubdate"
+            "sort": "pubdate",
         }
 
         search = GoogleSearch(params)
@@ -59,19 +60,18 @@ def format_publications_json(author_name: re.Pattern, publications):
     Returns a JSON-serializable list.
     """
     result = []
-    for pub in sorted(publications, key=lambda x: x['year'], reverse=True):
-        author_list = [a.strip() for a in pub['authors'].split(',')]
-        authors = [
-            f"**{a}**" if re.match(author_name, a) else a
-            for a in author_list
-        ]
-        result.append({
-            "title": pub['title'],
-            "authors": authors,
-            "year": int(pub['year']) if pub['year'] else 0,
-            "journal": pub.get('journal') or None,
-            "link": pub.get('link') or None,
-        })
+    for pub in sorted(publications, key=lambda x: x["year"], reverse=True):
+        author_list = [a.strip() for a in pub["authors"].split(",")]
+        authors = [f"**{a}**" if re.match(author_name, a) else a for a in author_list]
+        result.append(
+            {
+                "title": pub["title"],
+                "authors": authors,
+                "year": int(pub["year"]) if pub["year"] else 0,
+                "journal": pub.get("journal") or None,
+                "link": pub.get("link") or None,
+            }
+        )
     return result
 
 
@@ -80,12 +80,12 @@ def write_json(output_path, data):
     Write publication data as JSON.
     """
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print(f"Generated {output_path} successfully.")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # You may need to supply your name for highlighting
     AUTHOR_NAME = re.compile(r"J(os[eé]|\.)?\s?L(uiz|\.)?\sNunes", re.IGNORECASE)
 

@@ -1,142 +1,238 @@
 [
-  {
-    "title": "Evidence of conceptual mastery in the application of rules by Large Language Models",
-    "authors": ["**José Luiz Nunes**", "GFCF Almeida", "B Flanagan"],
-    "year": 2025,
-    "journal": "arXiv preprint arXiv:2503.00992, 2025",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:R3hNpaxXUhUC"
-  },
-  {
-    "title": "Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations",
-    "authors": ["**José Luiz Nunes**", "GFCF Almeida", "M de Araujo", "SDJ Barbosa"],
-    "year": 2024,
-    "journal": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:QIV2ME_5wuYC"
-  },
-  {
-    "title": "Precedentes Reais, Gerenciais e Decisões de Aplicação",
-    "authors": ["**José Luiz Nunes**", "GFCF Almeida"],
-    "year": 2024,
-    "journal": "Revista de Estudos Empíricos em Direito 11, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IWHjjKOFINEC"
-  },
-  {
-    "title": "Exploring the psychology of LLMs' Moral and Legal Reasoning",
-    "authors": ["GFCF Almeida", "**José Luiz Nunes**", "N Engelmann", "A Wiegmann", "M de Araújo"],
-    "year": 2024,
-    "journal": "Artificial Intelligence, 104145, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:dhFuZR0502QC"
-  },
-  {
-    "title": "Epistemology Goes AI: A Study of GPT-3's Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis",
-    "authors": ["M de Araujo", "G de Almeida", "**José Luiz Nunes**"],
-    "year": 2024,
-    "journal": "Minds and Machines 34 (1), 2, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:mVmsd5A6BfQC"
-  },
-  {
-    "title": "LLM (LARGE LANGUAGE MODELS) AS SURROGATE FOR MULTI-VOICE GROUPS: FROM EPISTEMIC RELIABILITY TO POLITICAL LEGITIMACY",
-    "authors": ["M Araujo", "**José Luiz Nunes**", "G Almeida"],
-    "year": 2024,
-    "journal": "Recasting Bioethics, Nueroethics, and AI Ethics. 1, 159-181, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:TQgYirikUcIC"
-  },
-  {
-    "title": "Using Model Cards for ethical reflection on machine learning models: an interview-based study",
-    "authors": ["**José Luiz Nunes**", "GDJ Barbosa", "CS de Souza", "SDJ Barbosa"],
-    "year": 2024,
-    "journal": "Journal on Interactive Systems 15 (1), 1-19, 2024",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:YOwf2qJgpHMC"
-  },
-  {
-    "title": "Investigating the Extended Metacommunication Template: How a semiotic tool may encourage reflective ethical practice in the development of machine learning systems",
-    "authors": ["GDJ Barbosa", "**José Luiz Nunes**", "CS De Souza", "SDJ Barbosa"],
-    "year": 2023,
-    "journal": "Proceedings of the XXII Brazilian Symposium on Human Factors in Computing, 2023",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4TOpqqG69KYC"
-  },
-  {
-    "title": "Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time",
-    "authors": ["FA Correia", "**José Luiz Nunes**", "PH Alves", "H Lopes"],
-    "year": 2023,
-    "journal": "Proceedings of the ACM Symposium on Document Engineering 2023, 1-10, 2023",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:KlAtU1dfN6UC"
-  },
-  {
-    "title": "Nota técnica sobre a PEC 09/2023",
-    "authors": ["Y Curzi", "SBC Góes", "**José Luiz Nunes**", "L Abbas", "G Thomaz"],
-    "year": 2023,
-    "journal": null,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:ULOm3_A8WrAC"
-  },
-  {
-    "title": "Using model cards for ethical reflection: a qualitative exploration",
-    "authors": ["**José Luiz Nunes**", "GDJ Barbosa", "CS de Souza", "H Lopes", "SDJ Barbosa"],
-    "year": 2022,
-    "journal": "Proceedings of the 21st Brazilian Symposium on Human Factors in Computing, 2022",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UebtZRa9Y70C"
-  },
-  {
-    "title": "A quantitative approach to ranking corporate law precedents in the Brazilian Superior Court of Justice",
-    "authors": ["**José Luiz Nunes**", "IA Hartmann"],
-    "year": 2022,
-    "journal": "Artificial Intelligence and Law 30 (1), 117-145, 2022",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:u-x6o8ySG0sC"
-  },
-  {
-    "title": "Fine-grained legal entity annotation: A case study on the Brazilian Supreme Court",
-    "authors": ["FA Correia", "AAA Almeida", "**José Luiz Nunes**", "KG Santos", "IA Hartmann", "FA Silva"],
-    "year": 2022,
-    "journal": "Information Processing & Management 59 (1), 102794, 2022",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:zYLM7Y9cAGgC"
-  },
-  {
-    "title": "Evaluating approaches for developers' ethical reasoning and communication about Machine Learning models",
-    "authors": ["**José Luiz Nunes**"],
-    "year": 2021,
-    "journal": "PUC-Rio, 2021",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4DMP91E08xMC"
-  },
-  {
-    "title": "Panorama do direito empresarial no Superior Tribunal de Justiça",
-    "authors": ["JM Lima Junior", "IA Hartmann", "TZ Pimentel", "**José Luiz Nunes**"],
-    "year": 2021,
-    "journal": null,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:qjMakFHDy7sC"
-  },
-  {
-    "title": "An exploratory analysis of precedent relevance in the Brazilian Supreme Court rulings",
-    "authors": ["FA Correia", "**José Luiz Nunes**", "GFCF de Almeida", "AAA Almeida", "H Lopes"],
-    "year": 2019,
-    "journal": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-4, 2019",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:9yKSN-GCB0IC"
-  },
-  {
-    "title": "O impacto no sistema prisional brasileiro da mudança de entendimento do Supremo Tribunal Federal sobre execução da pena antes do trânsito em julgado no HC 126.292/SP-um estudo",
-    "authors": ["IA Hartmann", "CI Keller", "D Chada", "G Vasconcelos", "**José Luiz Nunes**", "L Carneiro"],
-    "year": 2018,
-    "journal": "Revista de Direito Econômico e Socioambiental 9 (1), 399-426, 2018",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:2osOgNQ5qMEC"
-  },
-  {
-    "title": "Determinando relevância de processos utilizando análise de redes: exemplos de temas de direito administrativo",
-    "authors": ["**José Luiz Nunes**"],
-    "year": 2018,
-    "journal": null,
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IjCSPb-OGe4C"
-  },
-  {
-    "title": "A influência da TV Justiça no processo decisório do STF",
-    "authors": ["IA Hartmann", "C Guilherme da Franca", "BN Valim", "CEL Lima", "GB Mariano", "**José Luiz Nunes**"],
-    "year": 2017,
-    "journal": "Revista de estudos empíricos em direito 4 (3), 2017",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:d1gkVwhDpl0C"
-  },
-  {
-    "title": "Explicando o dissenso: uma análise empírica do comportamento judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos",
-    "authors": ["G Almeida", "**José Luiz Nunes**", "L Chaves"],
-    "year": 2016,
-    "journal": "Available at SSRN 3428679, 2016",
-    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UeHWp8X0CEIC"
-  }
+    {
+        "title": "Evidence of conceptual mastery in the application of rules by Large Language Models",
+        "authors": [
+            "**José Luiz Nunes**",
+            "GFCF Almeida",
+            "B Flanagan"
+        ],
+        "year": 2025,
+        "journal": "arXiv preprint arXiv:2503.00992, 2025",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+        "title": "Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations",
+        "authors": [
+            "**José Luiz Nunes**",
+            "GFCF Almeida",
+            "M de Araujo",
+            "SDJ Barbosa"
+        ],
+        "year": 2024,
+        "journal": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society 7, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+        "title": "Precedentes Reais, Gerenciais e Decisões de Aplicação",
+        "authors": [
+            "**José Luiz Nunes**",
+            "GFCF Almeida"
+        ],
+        "year": 2024,
+        "journal": "Revista de Estudos Empíricos em Direito 11, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IWHjjKOFINEC"
+    },
+    {
+        "title": "Exploring the psychology of LLMs' Moral and Legal Reasoning",
+        "authors": [
+            "GFCF Almeida",
+            "**José Luiz Nunes**",
+            "N Engelmann",
+            "A Wiegmann",
+            "M de Araújo"
+        ],
+        "year": 2024,
+        "journal": "Artificial Intelligence, 104145, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:dhFuZR0502QC"
+    },
+    {
+        "title": "Epistemology Goes AI: A Study of GPT-3's Capacity to Generate Consistent and Coherent Ordered Sets of Propositions on a Single-Input-Multiple-Outputs Basis",
+        "authors": [
+            "M de Araujo",
+            "G de Almeida",
+            "**José Luiz Nunes**"
+        ],
+        "year": 2024,
+        "journal": "Minds and Machines 34 (1), 2, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:mVmsd5A6BfQC"
+    },
+    {
+        "title": "LLM (LARGE LANGUAGE MODELS) AS SURROGATE FOR MULTI-VOICE GROUPS: FROM EPISTEMIC RELIABILITY TO POLITICAL LEGITIMACY",
+        "authors": [
+            "M Araujo",
+            "**José Luiz Nunes**",
+            "G Almeida"
+        ],
+        "year": 2024,
+        "journal": "Recasting Bioethics, Nueroethics, and AI Ethics. 1, 159-181, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:TQgYirikUcIC"
+    },
+    {
+        "title": "Using Model Cards for ethical reflection on machine learning models: an interview-based study",
+        "authors": [
+            "**José Luiz Nunes**",
+            "GDJ Barbosa",
+            "CS de Souza",
+            "SDJ Barbosa"
+        ],
+        "year": 2024,
+        "journal": "Journal on Interactive Systems 15 (1), 1-19, 2024",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+        "title": "Investigating the Extended Metacommunication Template: How a semiotic tool may encourage reflective ethical practice in the development of machine learning systems",
+        "authors": [
+            "GDJ Barbosa",
+            "**José Luiz Nunes**",
+            "CS De Souza",
+            "SDJ Barbosa"
+        ],
+        "year": 2023,
+        "journal": "Proceedings of the XXII Brazilian Symposium on Human Factors in Computing, 2023",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4TOpqqG69KYC"
+    },
+    {
+        "title": "Dynamic Topic Modeling with Tensor Decomposition as a Tool to Explore the Legal Precedent Relevance Over Time",
+        "authors": [
+            "FA Correia",
+            "**José Luiz Nunes**",
+            "PH Alves",
+            "H Lopes"
+        ],
+        "year": 2023,
+        "journal": "Proceedings of the ACM Symposium on Document Engineering 2023, 1-10, 2023",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:KlAtU1dfN6UC"
+    },
+    {
+        "title": "Nota técnica sobre a PEC 09/2023",
+        "authors": [
+            "Y Curzi",
+            "SBC Góes",
+            "**José Luiz Nunes**",
+            "L Abbas",
+            "G Thomaz"
+        ],
+        "year": 2023,
+        "journal": null,
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:ULOm3_A8WrAC"
+    },
+    {
+        "title": "Using model cards for ethical reflection: a qualitative exploration",
+        "authors": [
+            "**José Luiz Nunes**",
+            "GDJ Barbosa",
+            "CS de Souza",
+            "H Lopes",
+            "SDJ Barbosa"
+        ],
+        "year": 2022,
+        "journal": "Proceedings of the 21st Brazilian Symposium on Human Factors in Computing, 2022",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UebtZRa9Y70C"
+    },
+    {
+        "title": "A quantitative approach to ranking corporate law precedents in the Brazilian Superior Court of Justice",
+        "authors": [
+            "**José Luiz Nunes**",
+            "IA Hartmann"
+        ],
+        "year": 2022,
+        "journal": "Artificial Intelligence and Law 30 (1), 117-145, 2022",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Fine-grained legal entity annotation: A case study on the Brazilian Supreme Court",
+        "authors": [
+            "FA Correia",
+            "AAA Almeida",
+            "**José Luiz Nunes**",
+            "KG Santos",
+            "IA Hartmann",
+            "FA Silva"
+        ],
+        "year": 2022,
+        "journal": "Information Processing & Management 59 (1), 102794, 2022",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+        "title": "Evaluating approaches for developers' ethical reasoning and communication about Machine Learning models",
+        "authors": [
+            "**José Luiz Nunes**"
+        ],
+        "year": 2021,
+        "journal": "PUC-Rio, 2021",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:4DMP91E08xMC"
+    },
+    {
+        "title": "Panorama do direito empresarial no Superior Tribunal de Justiça",
+        "authors": [
+            "JM Lima Junior",
+            "IA Hartmann",
+            "TZ Pimentel",
+            "**José Luiz Nunes**"
+        ],
+        "year": 2021,
+        "journal": null,
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "An exploratory analysis of precedent relevance in the Brazilian Supreme Court rulings",
+        "authors": [
+            "FA Correia",
+            "**José Luiz Nunes**",
+            "GFCF de Almeida",
+            "AAA Almeida",
+            "H Lopes"
+        ],
+        "year": 2019,
+        "journal": "Proceedings of the ACM Symposium on Document Engineering 2019, 1-4, 2019",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "O impacto no sistema prisional brasileiro da mudança de entendimento do Supremo Tribunal Federal sobre execução da pena antes do trânsito em julgado no HC 126.292/SP-um estudo",
+        "authors": [
+            "IA Hartmann",
+            "CI Keller",
+            "D Chada",
+            "G Vasconcelos",
+            "**José Luiz Nunes**",
+            "L Carneiro"
+        ],
+        "year": 2018,
+        "journal": "Revista de Direito Econômico e Socioambiental 9 (1), 399-426, 2018",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Determinando relevância de processos utilizando análise de redes: exemplos de temas de direito administrativo",
+        "authors": [
+            "**José Luiz Nunes**"
+        ],
+        "year": 2018,
+        "journal": null,
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "A influência da TV Justiça no processo decisório do STF",
+        "authors": [
+            "IA Hartmann",
+            "C Guilherme da Franca",
+            "BN Valim",
+            "CEL Lima",
+            "GB Mariano",
+            "**José Luiz Nunes**"
+        ],
+        "year": 2017,
+        "journal": "Revista de estudos empíricos em direito 4 (3), 2017",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Explicando o dissenso: uma análise empírica do comportamento judicial do Supremo Tribunal Federal e da Suprema Corte dos Estados Unidos",
+        "authors": [
+            "G Almeida",
+            "**José Luiz Nunes**",
+            "L Chaves"
+        ],
+        "year": 2016,
+        "journal": "Available at SSRN 3428679, 2016",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8V-ZZZEAAAAJ&sortby=pubdate&citation_for_view=8V-ZZZEAAAAJ:UeHWp8X0CEIC"
+    }
 ]
