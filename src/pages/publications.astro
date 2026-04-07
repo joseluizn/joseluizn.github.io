@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import publications from '../data/publications.json';
+
+// Group publications by year
+const byYear = new Map<number, typeof publications>();
+for (const pub of publications) {
+  const year = pub.year;
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year)!.push(pub);
+}
+
+// Sort years descending
+const sortedYears = [...byYear.keys()].sort((a, b) => b - a);
+---
+
+<BaseLayout title="Publications">
+  <h1>Publications</h1>
+  <p>
+    Here is a list of my publications. You can find more information at my
+    <a href="https://scholar.google.com/citations?user=8V-ZZZEAAAAJ&hl=en">Google Scholar profile</a>.
+  </p>
+  <p>
+    If you cannot find any publication feel free to contact me through e-mail or on my
+    <a href="https://www.researchgate.net/profile/Jose-Luiz-Nunes">Research Gate profile</a>.
+  </p>
+
+  {sortedYears.map((year) => (
+    <section>
+      <h3>{year}</h3>
+      <ul class="publication-list">
+        {byYear.get(year)!.map((pub) => (
+          <li>
+            {pub.link ? <a href={pub.link}>{pub.title}</a> : pub.title}
+            <em set:html={pub.authors.map(a =>
+              a.startsWith('**') ? `<strong>${a.replace(/\*\*/g, '')}</strong>` : a
+            ).join(', ')} />
+            {pub.journal && <em>{pub.journal}</em>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>
